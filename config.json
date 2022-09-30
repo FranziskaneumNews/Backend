@@ -1,0 +1,4 @@
+{
+    "dbname": "news",
+    "mongourl": "mongodb://localhost:27017"
+}
